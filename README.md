@@ -31,5 +31,3 @@ A simple and interactive currency converter web app using real-time exchange rat
 3. Click **Get Exchange Rate**
 4. See the result with live data and flags
 
-
-Made by Tanisha
